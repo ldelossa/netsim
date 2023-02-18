@@ -1,0 +1,3 @@
+[submodule "klist"]
+	path = klist
+	url = git@github.com:ldelossa/klist
